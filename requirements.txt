@@ -1,0 +1,9 @@
+torch==1.13
+torchvision
+opencv-python
+tqdm
+transformer
+pytorch_lightning
+pycocotools
+scipy
+albumentations
